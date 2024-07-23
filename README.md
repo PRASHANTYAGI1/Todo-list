@@ -40,8 +40,7 @@ Click the "Delete" button next to the task you want to remove.
 Click the checkbox next to the task to mark it as completed.
 
 ##### some inspected code Demo to see the responsiveness of the page.
-![Screenshot (22)](https://github.com/GAURITYAGI1/ToDo_List-WebApp/assets/139331361/729dc676-e432-45d2-a92e-41d968f46d59)
-![Responsive View]()
+![Responsive View](https://github.com/PRASHANTYAGI1/Todo-list/blob/main/images/Screenshot%20(7).png)
 
 ### Check My To-Do App for web view.
 ##### Let's Try.
