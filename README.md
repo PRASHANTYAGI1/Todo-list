@@ -41,13 +41,10 @@ Click the checkbox next to the task to mark it as completed.
 
 ##### some inspected code Demo to see the responsiveness of the page.
 ![Screenshot (22)](https://github.com/GAURITYAGI1/ToDo_List-WebApp/assets/139331361/729dc676-e432-45d2-a92e-41d968f46d59)
-![Screenshot (23)](https://github.com/GAURITYAGI1/ToDo_List-WebApp/assets/139331361/62d809d9-1786-417c-9993-4afe10563745)
-![Screenshot (24)](https://github.com/GAURITYAGI1/ToDo_List-WebApp/assets/139331361/3c81cb7b-3d65-4f98-8deb-e58e6980befe)
 
 #### Here is My To-Do App.
 ##### Let's Try.
-[To-Do_list_web-app](https://todo-listt-webapp.netlify.app/)
+[To-Do list]()
 
-THANK YOU :)
 
  
